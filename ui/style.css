@@ -74,3 +74,19 @@ a {
 #imagecontainer{
    font-family:'Monotype Corsiva';
 }
+#name_input{
+  height: 300px;
+  width: 600px;
+
+}
+#name_span{
+  font-family:'Monotype Corsiva', sans-serif;
+  color: #444444;
+  line-height: 32px;
+ 
+  font-size: 20px;
+  font-weight: bold;
+
+
+}
+
